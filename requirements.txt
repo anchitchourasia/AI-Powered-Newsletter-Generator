@@ -1,0 +1,7 @@
+streamlit
+feedparser
+beautifulsoup4
+jinja2
+python-dotenv
+langchain
+langchain-google-genai
