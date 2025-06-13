@@ -1,0 +1,30 @@
+1. Can Scale AI Save Meta's AI?  The Wang Factor Revealed!
+
+
+== Tech ==
+
+- Can Scale AI and Alexandr Wang reignite Meta’s AI efforts?
+  Meta's investment in Scale AI and appointment of its CEO, Alexandr Wang, to lead a new AI research lab demonstrates a strategic commitment to enhancing its AI capabilities.  This signifies intensified competition within the AI sector and foreshadows increased investment in AI R&D, impacting both Meta's products and the broader AI field.
+  Link: https://techcrunch.com/2025/06/11/can-scale-ai-and-alexandr-wang-reignite-metas-ai-efforts/
+
+
+- How AI sales startup Landbase nabbed Ashton Kutcher’s Sound Ventures to lead its $30M Series A
+  Landbase, a growth-stage startup focused on digital trust, secured significant seed funding from approximately 130 venture capitalists.  This investment underscores substantial market confidence in the company's innovative approach to establishing trust in digital environments.
+  Link: https://techcrunch.com/2025/06/12/how-ai-sales-startup-landbase-nabbed-ashton-kutchers-sound-ventures-to-lead-its-30m-series-a/
+
+
+- Meta sues AI ‘nudify’ app Crush AI for advertising on its platforms
+  Meta Platforms is suing Crush AI developers for widespread advertising of their "nudify" app across Meta's platforms.  The lawsuit underscores Meta's commitment to removing harmful applications from its advertising network.
+  Link: https://techcrunch.com/2025/06/12/meta-sues-ai-nudify-app-crush-ai-for-advertising-on-its-platforms/
+
+
+- Sam Altman-backed Coco Robotics raises $80M
+  Coco Robotics reports exceeding 500,000 autonomous, zero-emission deliveries since 2020, demonstrating significant operational scale and successful technology deployment in its robotic delivery service.
+  Link: https://techcrunch.com/2025/06/11/sam-altman-backed-coco-robotics-raises-80m/
+
+
+- Fervo Energy lands $206M in financing to build massive geothermal power plant
+  Fervo Energy is developing a pioneering enhanced geothermal system (EGS) project, projected to be the world's largest.
+  Link: https://techcrunch.com/2025/06/11/fervo-energy-lands-206m-in-financing-to-build-massive-geothermal-power-plant/
+
+
