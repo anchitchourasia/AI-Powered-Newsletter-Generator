@@ -1,0 +1,11 @@
+{{ subject }}
+
+{% for category, articles in newsletter.items() %}
+== {{ category.title() }} ==
+{% for article in articles %}
+- {{ article.title }}
+  {{ article.summary }}
+  Link: {{ article.url }}
+
+{% endfor %}
+{% endfor %}
